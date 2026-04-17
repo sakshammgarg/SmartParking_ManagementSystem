@@ -72,7 +72,7 @@ The project requires the following environment setup:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/sakshammgarg/SmartParking_System.git
+git clone https://github.com/sakshammgarg/SmartParking_ManagementSystem.git
 cd SmartParking_ManagementSystem
 ```
 
